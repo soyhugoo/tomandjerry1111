@@ -1,0 +1,752 @@
+fileFormatVersion: 2
+guid: 99f3c3044ac85554cac42eb3a6434c88
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Tom and Jerry - Playable Characters - Jerry_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 211
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eec8c128efe1da4ab9ffbe64a8c3b68
+      internalID: 817241357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Tom and Jerry - Playable Characters - Jerry_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 212
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31f182a7eee751449cf16d22c863489
+      internalID: 914952963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Tom and Jerry - Playable Characters - Jerry_2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 212
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3888d358f9d5a0c47a4794e0c09b5f55
+      internalID: 791748479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Tom and Jerry - Playable Characters - Jerry_3
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 211
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab6bd7772477bd46ac971859510774a
+      internalID: -561818779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Tom and Jerry - Playable Characters - Jerry_4
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 210
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ddb45ea96b0154fa928342837c7c7d
+      internalID: 1961842748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Tom and Jerry - Playable Characters - Jerry_5
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 211
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0737b0e7e7c395e4e9a84a6774158727
+      internalID: 387166607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Tom and Jerry - Playable Characters - Jerry_6
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 212
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3702dcaf201d6b4e98021a367339908
+      internalID: 1739603443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Tom and Jerry - Playable Characters - Jerry_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 172
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648f45c6e272f8747afe8e598d8ea0f8
+      internalID: -508917373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Tom and Jerry - Playable Characters - Jerry_8
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 173
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f197251c1db63824a9a165422d1cd5f0
+      internalID: -847230318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Tom and Jerry - Playable Characters - Jerry_9
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 173
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1daa2718f58a5234686ce4213b7310da
+      internalID: -785182561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Tom and Jerry - Playable Characters - Jerry_10
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 178
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c0f0dcff85109469a31ce3c09b97a6
+      internalID: -1171024450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Tom and Jerry - Playable Characters - Jerry_11
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 60
+        width: 102
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb2dbd1f2a848e46ad524dac33ee34d
+      internalID: 2070057701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Tom and Jerry - Playable Characters - Jerry_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 118
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621b3ada18b86f542987b9d96ddf99be
+      internalID: -1236258901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Tom and Jerry - Playable Characters - Jerry_13
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 119
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075559ba2831dab44a1121dbd2f4d84a
+      internalID: 166210939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Tom and Jerry - Playable Characters - Jerry_14
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 119
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f457fca94275c42b84b72d32c4fda5
+      internalID: -151905181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Tom and Jerry - Playable Characters - Jerry_15
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 122
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d95fcca095464429946cc2460f861c
+      internalID: 1429946872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Tom and Jerry - Playable Characters - Jerry_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 71
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bfa7dc188c971488de84dfcd97c7f3
+      internalID: 559161190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Tom and Jerry - Playable Characters - Jerry_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 70
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822f2dad11f21114bbf14da6b903910e
+      internalID: -1203578371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Tom and Jerry - Playable Characters - Jerry_18
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 70
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34273bbfc1412564083c204faa987789
+      internalID: 1392967833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Tom and Jerry - Playable Characters - Jerry_19
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 70
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc2603a10d98a04ebd38eb38a2bcb59
+      internalID: 1603109403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Tom and Jerry - Playable Characters - Jerry_20
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 71
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb112f36e06fde4b8cb68f091c014b4
+      internalID: -235356784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Tom and Jerry - Playable Characters - Jerry_21
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 8
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d1c4fdf7687d546be5a3538acf5d15
+      internalID: 1209852113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Tom and Jerry - Playable Characters - Jerry_22
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 10
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c99ecbc535ec745a3f50326ea8c1fd
+      internalID: 1833768722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Tom and Jerry - Playable Characters - Jerry_23
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 9
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02dc0527439b67449a9a73d8b61f0c6d
+      internalID: 1665333154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Tom and Jerry - Playable Characters - Jerry_24
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 9
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9287205bfba61842a3cdd97bf259c80
+      internalID: 586702606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Tom and Jerry - Playable Characters - Jerry_25
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 8
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad94f2075b688894cb4a32e9a7ad4e96
+      internalID: -1977628831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Tom and Jerry - Playable Characters - Jerry_26
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 8
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ff99049e3523f44924804503dd986d
+      internalID: -814494675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Tom and Jerry - Playable Characters - Jerry_27
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 8
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8369b018fb49ad45b5b5432ed21fcc2
+      internalID: 1178561209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Tom and Jerry - Playable Characters - Jerry_28
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 7
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3601608eea5d24c845331f073dd3a6
+      internalID: 461143109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7755aefabe258b948ad2dbc8671dc277
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SNES - Tom and Jerry - Playable Characters - Jerry_0: 817241357
+      SNES - Tom and Jerry - Playable Characters - Jerry_1: 914952963
+      SNES - Tom and Jerry - Playable Characters - Jerry_10: -1171024450
+      SNES - Tom and Jerry - Playable Characters - Jerry_11: 2070057701
+      SNES - Tom and Jerry - Playable Characters - Jerry_12: -1236258901
+      SNES - Tom and Jerry - Playable Characters - Jerry_13: 166210939
+      SNES - Tom and Jerry - Playable Characters - Jerry_14: -151905181
+      SNES - Tom and Jerry - Playable Characters - Jerry_15: 1429946872
+      SNES - Tom and Jerry - Playable Characters - Jerry_16: 559161190
+      SNES - Tom and Jerry - Playable Characters - Jerry_17: -1203578371
+      SNES - Tom and Jerry - Playable Characters - Jerry_18: 1392967833
+      SNES - Tom and Jerry - Playable Characters - Jerry_19: 1603109403
+      SNES - Tom and Jerry - Playable Characters - Jerry_2: 791748479
+      SNES - Tom and Jerry - Playable Characters - Jerry_20: -235356784
+      SNES - Tom and Jerry - Playable Characters - Jerry_21: 1209852113
+      SNES - Tom and Jerry - Playable Characters - Jerry_22: 1833768722
+      SNES - Tom and Jerry - Playable Characters - Jerry_23: 1665333154
+      SNES - Tom and Jerry - Playable Characters - Jerry_24: 586702606
+      SNES - Tom and Jerry - Playable Characters - Jerry_25: -1977628831
+      SNES - Tom and Jerry - Playable Characters - Jerry_26: -814494675
+      SNES - Tom and Jerry - Playable Characters - Jerry_27: 1178561209
+      SNES - Tom and Jerry - Playable Characters - Jerry_28: 461143109
+      SNES - Tom and Jerry - Playable Characters - Jerry_3: -561818779
+      SNES - Tom and Jerry - Playable Characters - Jerry_4: 1961842748
+      SNES - Tom and Jerry - Playable Characters - Jerry_5: 387166607
+      SNES - Tom and Jerry - Playable Characters - Jerry_6: 1739603443
+      SNES - Tom and Jerry - Playable Characters - Jerry_7: -508917373
+      SNES - Tom and Jerry - Playable Characters - Jerry_8: -847230318
+      SNES - Tom and Jerry - Playable Characters - Jerry_9: -785182561
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
